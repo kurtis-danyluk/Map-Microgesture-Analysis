@@ -1,0 +1,42 @@
+﻿Tasks,Person,Description,uGlyph(light),Actuator,Reciever,Context,Movement
+summon,Kurtis,Touch Thumb to first index knuckle,t◦•▼(i•dip),t,i(dip),◦•,▼
+dismiss,Kurtis,Touch Thumb to first index knuckle,t◦•▼(i•dip),t,i(dip),◦•,▼
+resize,Kurtis,Slide thumb along ring finger,t••↕(r•),t,r,••,↕
+rotate,Kurtis,"Touch thumb to Ring Tip, Twist hand to rotate",t••▼(r•t);palm◦↻,t,"r,palm",◦,↻
+pan,Kurtis,Slide thumb along top of index,t••✥(i•L),t,i(l),••,✥
+pitch,Kurtis,"Touch thumb to Ring Tip, Twist hand to pitch",t◦•▼(r•t);wrist◦↻,t,"r,wrist",◦,↻
+reposition,Kurtis,Slide thumb along pinky. Moves in Arc,t••✥(p•),t,p,••,✥
+zoom,Kurtis,Slide thumb along middle,t••✥(m•),t,m,••,✥
+menu,Kurtis,4 Finger palm tap,i||m||r||p◦•▼(palm•),"i,m,r,p",palm,◦•,▼
+point/select,Kurtis,Thumb to index tip,t◦•▼(i•t),t,i(t),◦•,▼
+summon,Simon,4 Finger palm tap; keep holding for quick peek,i||m||r||p◦•▼x>1s(palm•),"i,m,r,p",palm,◦•,▼
+dismiss,Simon,4 Finger palm tap; keep holding for quick temporary dismiss,i||m||r||p◦•▼x>1s(palm•),"i,m,r,p",palm,◦•,▼
+resize,Simon,"Close pinky, then slide up and down on middle finger",p◦▼;t••↕(r•),t,r,••,↕
+rotate,Simon,Rotational swipe on middle finger,t••↻(m•),t,m,••,↻
+pan,Simon,Top of index finger as touchpad,t••✥(i•ft),t,i(ft),••,✥
+pitch,Simon,"Close pinky, rotational swipe on middle finger",p◦▼;t••↻(m•),t,m,••,↻
+reposition,Simon,"Close pinky, then top of index finger as touchpad",p◦▼;t••✥(i•ft),t,i(ft),••,✥
+zoom,Simon,Slide up and down on middle finger,t••↕(m•),t,m,••,↕
+menu,Simon,Tap middle finger tip; quick options on inner finger segments,t••▼(m•t),t,m(t),••,▼
+point/select,Simon,Tap on top of index touchpad,t••▼(i•ft),t,i(ft),••,▼
+pan,Wes,Slide thumb on pad of index finger (2D)👌,t••✥(i•ft),t,i(ft),••,✥
+point/select,Wes,"Tap thumb on pad of index finger to select 
+(with gaze for pointing) 👌","t◦•▼(i•L,pip);t•◦▲",t,"i(L,pip)",•◦,▲
+zoom,Wes,Slide thumb across pad of middle finger,t••↕(m•ft),t,m(t),••,↕
+rotate,Wes,Slide thumb along pad of middle finger,t••↔(m•ft),t,m(t),••,↔
+pitch,Wes,Slide thumb across pad of ring finger,t••↕(r•ft),t,r(t),••,↕
+resize,Wes,Slide thumb along pad of ring finger,t••↔(r•ft),t,r(ft),••,↔
+reposition,Wes,"Press thumb to pad of ring finger, move hand to reposition",t◦•▼(r•ft);hand◦✥,hand,,◦,✥
+summon,Wes,"Tap thumb on side of knuckle of middle finger 
+(PIP Joint); press-and-hold to peek","t◦•▼(m•L,pip);t•◦▲",t,"M(L,pip)",•◦,▲
+dismiss,Wes,"Tap thumb on side of knuckle of middle finger 
+(PIP Joint); press-and-hold to temprorarily dismiss","t◦•▼(m•L,pip);t•◦▲",t,"M(L,pip)",•◦,▲
+menu,Wes,Tap thumb on side of outer joint of middle finger (DIP Joint),"t◦•▼(m•L,dip);t•◦▲",t,"M(L,dip)",•◦,▲
+Summon,Maranda,,,"i,m,r,p",palm,◦•;•◦,▼;▲
+dismiss,Maranda,,,"i,m,r,p",palm,•◦;◦•,▲;▼
+resize,Maranda,,,t,r,••,↕
+rotate,Maranda,,,t,m,••,↕
+pitch,Maranda,,,"m(t),r(t)","m(b),r(b)",◦•,▼
+reposition,Maranda,,,t,"i,m,r,p",••,↔
+pan,Maranda,,,t,"I,m",••,✥
+zoom,Maranda,,,t,i(l),••,↔
