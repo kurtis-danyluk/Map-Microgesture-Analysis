@@ -32,7 +32,7 @@ summon,Wes,"Tap thumb on side of knuckle of middle finger
 dismiss,Wes,"Tap thumb on side of knuckle of middle finger 
 (PIP Joint); press-and-hold to temprorarily dismiss","t◦•▼(m•L,pip);t•◦▲",t,"M(L,pip)",•◦,▲
 menu,Wes,Tap thumb on side of outer joint of middle finger (DIP Joint),"t◦•▼(m•L,dip);t•◦▲",t,"M(L,dip)",•◦,▲
-Summon,Maranda,,,"i,m,r,p",palm,◦•;•◦,▼;▲
+summon,Maranda,,,"i,m,r,p",palm,◦•;•◦,▼;▲
 dismiss,Maranda,,,"i,m,r,p",palm,•◦;◦•,▲;▼
 resize,Maranda,,,t,r,••,↕
 rotate,Maranda,,,t,m,••,↕
