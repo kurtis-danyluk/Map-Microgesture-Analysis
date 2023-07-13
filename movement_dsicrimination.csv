@@ -1,0 +1,9 @@
+﻿Key,▼,↕,↻,✥,▲,↔,▼;▲,▲;▼
+▼,none,full,full,full,medium,full,small,medium
+↕,full,none,small,medium,full,small,full,full
+↻,full,small,none,large,full,small,full,full
+✥,full,medium,large,none,full,medium,full,full
+▲,medium,full,full,full,none,full,small,medium
+↔,full,small,small,medium,full,none,full,full
+▼;▲,small,full,full,full,small,full,none,small
+▲;▼,medium,full,full,full,medium,full,small,none
