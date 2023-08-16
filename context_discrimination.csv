@@ -1,7 +1,6 @@
-﻿Key,◦•,••,◦,•◦,◦•;•◦,•◦;◦•
-◦•,none,full,full,medium,small,medium
-••,full,none,large,full,full,full
-◦,full,large,none,full,full,full
-•◦,medium,full,full,none,medium,small
-◦•;•◦,small,full,full,medium,none,small
-•◦;◦•,medium,full,full,small,small,none
+﻿Key,•◦,◦•,••◦,◦◦,••
+•◦,Identical,Slightly Related,Closely Related,Unrelated,Unrelated
+◦•,Slightly Related,Identical,Unrelated,Unrelated,Unrelated
+••◦,Closely Related,Unrelated,Identical,Barely Related,Closely Related
+◦◦,Unrelated,Unrelated,Barely Related,Identical,Closely Related
+••,Unrelated,Unrelated,Closely Related,Closely Related,Identical
