@@ -1,9 +1,7 @@
-﻿Key,▼,↕,↻,✥,▲,↔,▼;▲,▲;▼
-▼,none,full,full,full,medium,full,small,medium
-↕,full,none,small,medium,full,small,full,full
-↻,full,small,none,large,full,small,full,full
-✥,full,medium,large,none,full,medium,full,full
-▲,medium,full,full,full,none,full,small,medium
-↔,full,small,small,medium,full,none,full,full
-▼;▲,small,full,full,full,small,full,none,small
-▲;▼,medium,full,full,full,medium,full,small,none
+﻿Key,▲,▼,↔,↕,✥,↻↺
+▲,Identical,Slightly Related,Unrelated,Slightly Related,Barely Related,Unrelated
+▼,Slightly Related,Identical,Unrelated,Slightly Related,Barely Related,Unrelated
+↔,Unrelated,Unrelated,Identical,Closely Related,Slightly Related,Slightly Related
+↕,Slightly Related,Slightly Related,Closely Related,Identical,Slightly Related,Slightly Related
+✥,Barely Related,Barely Related,Slightly Related,Slightly Related,Identical,Slightly Related
+↻↺,Unrelated,Unrelated,Slightly Related,Slightly Related,Slightly Related,Identical

@@ -1,5 +1,7 @@
-﻿Key,t,"i,m,r,p",hand,"m(t),r(t)"
-t,None,Large,Full,Large
-"i,m,r,p",Large,None,Full,Small
-hand,Full,Full,None,Full
-"m(t),r(t)",Large,Small,Full,None
+﻿Key,i,"i,m","i,m,r,p","i,m,r,p,t",wrist,t
+i,Identical,Closely Related,Slightly Related,Unrelated,Slightly Related,Closely Related
+"i,m",Closely Related,Identical,Slightly Related,Unrelated,Slightly Related,Slightly Related
+"i,m,r,p",Slightly Related,Slightly Related,Identical,Closely Related,Unrelated,Unrelated
+"i,m,r,p,t",Unrelated,Unrelated,Closely Related,Identical,Unrelated,Barely Related
+wrist,Slightly Related,Slightly Related,Unrelated,Unrelated,Identical,Unrelated
+t,Closely Related,Slightly Related,Unrelated,Barely Related,Unrelated,Identical
