@@ -19,7 +19,7 @@ p8,Pan,activate mode with tap then ,wrist✥◦◦,wrist,-,◦◦,✥,4,5,Joysti
 p9,Pan,2 finger scissor and joystick,wrist✥◦◦,wrist,-,◦◦,✥,5,4,Joystick,TRUE,i▶◦•(r•),
 p1,Pan,left tip of index as touchpad,t✥••(i•ft),t,i ft,••,✥,4,4,Body Touchpad,FALSE,,
 p12,Pan,touchpad on left side of index,t✥••(i•l),t,i l,••,✥,4,5,Body Touchpad,FALSE,,
-p2,Pan,use fingers  face as touchpad,"t✥(i,m•f)",t,"i,m  f",••,✥,3,3,Body Touchpad,FALSE,,
+p2,Pan,use fingers  face as touchpad,"t✥(i,m•f)",t,"i,m f",••,✥,3,3,Body Touchpad,FALSE,,
 p6,Pan,swipe on face of middle finger,t✥••(m•f),t,m f,••,✥,2,3,Body Touchpad,FALSE,,
 p5,Pan,slide on middle front or fingers basses for x y,"t✥••(m•f|i,m,r,p•b)",t,"m f | i,m,r,p b",••,✥,4,5,Landmark Slide,FALSE,,
 p3,Pan,use palm as touchpad for thumb,t✥••(palm•),t,palm,••,✥,3,4,Body Touchpad,FALSE,,
